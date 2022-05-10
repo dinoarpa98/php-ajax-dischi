@@ -1,0 +1,27 @@
+.bg-card{
+    background-color: #161b20;
+}
+
+.back-img{
+   background-color: #1e2d3b;
+    
+}
+
+.back-img_2{
+    background-color: #2e3a46;
+}
+
+.logo{
+    height: 45px;
+}
+
+
+h4,
+p,
+span{
+    color: white;
+}
+
+h5{
+    color: white;
+  }
